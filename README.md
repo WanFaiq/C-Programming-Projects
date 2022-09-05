@@ -1,1 +1,1 @@
-# Random C and CPP projects
+# Random projects uploaded here
